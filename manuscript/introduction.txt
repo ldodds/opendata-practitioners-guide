@@ -1,0 +1,40 @@
+# Introduction
+
+Welcome to The Open Data Practitioner's Guide!
+
+This hand book draws on my experiences in participating in, supporting and leading a number of different open data projects. 
+
+It is intended to act as a useful reference for anyone involved in supporting the publication and maintenance of open data. While much of the focus of this book will be on data publication, it should also provide useful material for those involved in using open data within data science projects or data-driven applications.
+
+As such the book should be useful for:
+
+* __Open data leads__ in local or central government
+* __Data stewards__ responsible for overseeing the sharing and publication of data within a variety of organisations
+* __Developer evangelists__ supporting a community of developers using open data
+* __Open data consultants__ looking for checklists and similar guidance to help support and develop their practice
+
+While the handbook covers a number of technical topics, no specific technical skills or background is required.
+
+## How is this book organised?
+
+The handbook has been divided into two sections. 
+
+The first section includes a variety of background material in the form of short essays covering specific topics. The essays introduce a number of key concepts and issues whose understanding is important to building a good open data practice. The topics covered include questions such as:
+
+* What is a dataset?
+* How do we describe datasets?
+* How do we enable reuse of data?
+* How do we publish and discover datasets?
+
+Building on these foundations, Section 2 focuses on providing useful guidance that will help you develop your open data practice. Each of the chapters covers a specific process that each contribute to the sustainable publication, release and use of open data. This includes:
+
+* How do deal with concerns around the release of data
+* How to build a data release process that includes the appropriate oversight required to ensure data is published in an accessible, risk free way
+* How to support reusers of your data
+
+Section 2 also introduces the Open Data Maturity model which provides a means of benchmarking your organisations open data practice. The activities described in that model are used as reference points throughout this handbook.
+
+
+
+
+
