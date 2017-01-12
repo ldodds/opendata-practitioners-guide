@@ -35,6 +35,3 @@ Building on these foundations, Section 2 focuses on providing useful guidance th
 Section 2 also introduces the Open Data Maturity model which provides a means of benchmarking your organisations open data practice. The activities described in that model are used as reference points throughout this handbook.
 
 
-
-
-
