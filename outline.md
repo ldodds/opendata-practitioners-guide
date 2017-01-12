@@ -1,4 +1,4 @@
-# Open Data Practitioners Handbook
+# Open Data Practitioners Guide
 
 Planned outline for the book.
 
