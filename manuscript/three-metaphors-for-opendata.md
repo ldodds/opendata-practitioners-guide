@@ -24,7 +24,27 @@ We'll encounter a few other metaphors later the book. We'll think about open dat
 
 ## Data is like Roads
 
-TODO
+Data is like roads. Roads help us navigate to a destination. Data helps us navigate to a decision.
+
+This metaphor was first proposed by Jeni Tennison, CEO of the Open Data Institute (ODI). It's intended to highlight that data is rapidly playing an important role in modern society and business. Roads help us travel to work, school and support a variety of business uses. Roads are infrastructure that are created and supported by society for the benefit of all its users. Open data, and especially open data published by government and the public sector, has similar characteristics. Like roads, [data is infrastructure](https://theodi.org/what-is-data-infrastructure).
+
+Thinking of data as enabling infrastructure draws out some important aspects that are not evident in the oil or gold rush metaphors. For example:
+
+* data, like all infrastructure, supports a community of users. They may use it differently, but its continued availability is important to them
+* roads are available for anyone to use, for any purpose. You don't need explicit permission to use a road. Openly licensed data has the same properties
+* infrastructure needs to be managed and maintained to preserve its utility
+
+And, like any shared resource, data should perhaps be governed by "rules of the road" that help ensure that it is used fairly and responsibly. There is a growing body of best practices and norms around the use of data which we'll explore later in this book.
+
+The roads analogy is also useful in another way. It can help us think through how that infrastructure should be made available both now, and in the future. In [a series of blog posts](http://theodi.org/blog/how-will-future-affect-data-infrastructure) Peter Wells has proposed three possible futures:
+
+* **Open roads**: in this open future, data is made as open as possible, so that it can support the widest possible community
+* **Toll roads**: rather than having free access to data, we may have to pay a toll or other fee in order to access it
+* **Private roads**: data is kept closed and is only accessible to those that collect it, for their own purposes
+
+Like today, the future data landscape is likely to be criss-crossed with a mixture of open, shared and closed roads. What's most important is understanding the relative mix. How easy will it be to navigate to a decision using data?
+
+I find this metaphor a useful framing for thinking through those questions.
 
 ## Stone Soup
 
