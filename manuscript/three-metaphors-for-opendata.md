@@ -20,7 +20,9 @@ And we don't just find data sitting undiscovered in databases. Collecting and ma
 
 I want this book to help open data practitioners understand the key concepts that define open data and the open data movement. So I thought I would begin by introducing some metaphors which I think provide some useful insights. 
 
-We'll encounter a few other metaphors later the book. We'll think about open data as energy that supports an ecosystem. And data as water, flowing through systems. But before we get into those I wanted to share three metaphors which I think highlight some useful aspects of the practice of open data.
+We'll encounter a few other metaphors later the book. We'll explore the data spectrum, and view about open data as energy that drives an ecosystem. We'll also think about data as water, flowing through systems. 
+
+But before we get into those I wanted to share three metaphors which I think highlight some useful aspects of the practice of open data.
 
 ## Data is like Roads
 
@@ -48,9 +50,9 @@ I find this metaphor a useful framing for thinking through those questions.
 
 ## Stone Soup
 
-The tale of "Stone Soup" is one that you may have heard already. Like all folk tales there are a number of different variations of it. The version I prefer goes something like this:
+The tale of "[Stone Soup](https://en.wikipedia.org/wiki/Stone_Soup)" is one that you may have heard already. Like all folk tales there are a number of different variations of it. The version I prefer goes something like this:
 
-A hungry traveler who comes to a village carrying nothing but an empty cooking pot. Initially, the villagers are unwilling to share their food with the traveler. So, the traveler fills their cooking pot with water from a nearby stream and sets it over a fire. The traveller then puts a large stone into the pot and sits down to wait. Curious, the villagers ask the traveller what they're doing. The traveler explains that they are making "stone soup" which will be a delicious meal. But they could do with a little bit of garnish to help improve the flavour. One villager offers a few carrots, which are then added to the pot. The story continues with more and more of the villagers choosing to contribute something extra to the pot. The story ends with the stone being removed from the pot and the whole village and the traveler enjoying a delicious meal.
+A hungry traveller who comes to a village carrying nothing but an empty cooking pot. Initially, the villagers are unwilling to share their food with the traveller. So, the traveler fills their cooking pot with water from a nearby stream and sets it over a fire. The traveller then puts a large stone into the pot and sits down to wait. Curious, the villagers ask the traveller what they're doing. The traveler explains that they are making "stone soup" which will be a delicious meal. But they could do with a little bit of garnish to help improve the flavour. One villager offers a few carrots, which are then added to the pot. The story continues with more and more of the villagers choosing to contribute something extra to the pot. The story ends with the stone being removed from the pot and the whole village and the traveler enjoying a delicious meal.
 
 The story has often been used as a metaphor for community action. It clearly illustrates how small contributions from a wide community can add up to something much greater. 
 
@@ -72,7 +74,49 @@ As an open data practitioner, you are the catalyst for your community. Together 
 
 ## The Blind Men and the Elephant
 
-TODO
+Like Stone Soup the parable of the [Blind Men and the Elephant](https://en.wikipedia.org/wiki/Blind_men_and_an_elephant) is one you've probably heard before. And like Stone Soup there are many different versions.
+
+In the story six blind men are asked to describe an elephant by feeling different parts of its body. The man that feels the elephant's leg declares the elephant to be like a pillar. The man that feels its tale says it is like rope, whereas another believes it to be like a snake after touching its trunk.
+
+In some versions of the story, the men are unable to agree on the nature of an elephant and end up fighting each defending their own conclusion. In other versions of the story a king, or other wise man, explains that all of the men are correct but they had each only touched a part of the animal.
+
+The story is used as a metaphor to illustrate the importance of understanding different viewpoints to fully understand a situation. Unlike the previous examples, this metaphor doesn't tell us much about the data revolution. But I think it does help to highlight something important about the open data movement.
+
+The open data community is extremely broad. Members of the community have a variety of different types of expertise and are looking at how the practice of open data can solve problems in a number of different sectors.
+
+For example open data is a key component of:
+
+* the **open government** government
+* the **open science** and **open access** community
+* the **collaborative economy** 
+
+Across these communities, many of the challenges that open data practitioners are facing are the same. I've encountered exactly the same debates around how best to publish open data in many different sectors. And usually the answers are exactly the same: create useful metadata, use open formats, and apply standard open licences.
+
+But the reasons why different communities embrace open data, and the specific role it plays in those community may vary a great deal. 
+
+For example there's a very strong overlap between open data and open government, particularly in the UK and US. This often results in us focusing on open data as a means to:
+
+* encourage economic growth by creating new businesses and startups that are able to make better use of public sector resources
+* create transparency so that we can better hold our public institutions to account
+* help us solve social problems by enabling government to be more data-driven or explore how open innovation can help it work with civil society on specific challenges
+
+But arguably the core reasons driving the adoption of open data in science are often different:
+
+* sharing data can support reproducible research, allowing the quality of scientific research to improve
+* highlighting the effort required to curate data allows those involved to receive proper credit for their activities, which the existing focus on publishing academic papers does not support
+* collecting data can often be costly, or may not be repeatable for ethical reasons, so the ability to reuse data is important to support further research
+
+Communities engaged in collaborative production of openly licensed databases like OpenStreetMap, Musicbrainz or Discogs do so because they are inspired by their individual interests and passions. Or perhaps because they believe that the world should have a free alternative to highly priced commercial datasets. In those areas, open licensing is the basis for developing trust and a sense of shared ownership in the results of their collective efforts.
+
+I believe that as open data practitioners we must be mindful of these different perspectives as we create guidance or develop tools to support our community. These differences are particularly important when we attempt to assess the impact, progress and future development of open data programmes. Different sectors of the community will have their own definitions of success. 
+
+It is not helpful to suggest, for example, that the only important open datasets are those that are regularly released via web APIs. I've seen this argument used to justify investment in APIs and data platforms to support application developers. While this might be useful to support use of open data in one sector or by one user community, it's not a general solution. For example, in contrast, the majority of datasets in the sciences are tiny datasets that will likely be analysed on the desktop. And they may never be updated after the completion of a specific research project. But these datasets have an important role in both the commons and the scientific record. Where there are differences are in the types of reuse they enable.
+
+As practitioners it is important for us to see the whole elephant. To understand these different perspectives. They provide opportunities for us to learn from one another and, where useful, transfer best practices between communities.
+
+In this book I will be trying to provide guidance that is applicable to the broader open data community. 
+
+Let's get started.
 
 
  
