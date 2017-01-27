@@ -1,2 +1,2 @@
-introduction.txt
+introduction.md
 three-metaphors-for-opendata.md
