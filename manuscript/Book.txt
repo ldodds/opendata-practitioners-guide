@@ -1,2 +1,4 @@
 introduction.md
 three-metaphors-for-opendata.md
+basic-questions-about-data.md
+what-is-open-data.md

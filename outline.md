@@ -41,22 +41,7 @@ Each essay will have:
 * Debunking tragedy of the commons
 * Examples of sources of open data, governments, organisations, community, research
 
-### Q2: What is a dataset?
-
-* What is data?
-* Review the different definitions of dataset across different communities
-* Discuss reasons for not breaking up datasets into smaller chunks
-* Present a working definition of dataset: "a collection of machine-readable information, collected & managed by a specific organisation or team, using a common set of data governance practices, serves a clear purpose." 
-* It's an operational definition that helps place dataset in context of how it is collected and managed. This is defines a useful boundary that identifies the publisher, means of production, etc.
-
-### Q3: How do we describe datasets?
-
-* What does your dataset contain?
-* Review metadata standards that help describe some of these elements
-* Highlight role of this data in discovery (& untapped potential)
-* Reference to later section on documentation
-
-### Q4: What is the data spectrum?
+### Q2: What is the data spectrum?
 * Review closed-shared-open
 * Access and reuse is the most important aspect not size, etc
 * Spectrum helps to clarify that open data isn't something new and distinct, its a continuation/refinement of existing practices
@@ -65,6 +50,22 @@ Each essay will have:
 * An open data practitioner is someone that helps ensure that data is placed on the right part of the data spectrum.
 * Moving along the spectrum may involve transformational change: anonymisation or aggregation (see later)
 * Open data practice as a high watermark for data sharing, means and methods are more general. See also "inner sourcing"; TR paper on shareability
+
+
+### Q3: What is a dataset?
+
+* What is data?
+* Review the different definitions of dataset across different communities
+* Discuss reasons for not breaking up datasets into smaller chunks
+* Present a working definition of dataset: "a collection of machine-readable information, collected & managed by a specific organisation or team, using a common set of data governance practices, serves a clear purpose." 
+* It's an operational definition that helps place dataset in context of how it is collected and managed. This is defines a useful boundary that identifies the publisher, means of production, etc.
+
+### Q4: How do we describe datasets?
+
+* What does your dataset contain?
+* Review metadata standards that help describe some of these elements
+* Highlight role of this data in discovery (& untapped potential)
+* Reference to later section on documentation
 
 ### Q5: How do we enable reuse of data?
 * Overview of rights relating to data, largely to call out jurisdictional differences
