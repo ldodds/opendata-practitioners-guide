@@ -1,36 +1,102 @@
-So what is open data anyway?
-
 # What is open data?
 
-Open data is data that anyone can access, use and share. 
+So what is open data anyway?
 
-This is the Open Data Institute (ODI) definition of open data. It was intended to provide a simple dictionary definition of the concept of open data that is useful for a wide audience. An elevator pitch that condenses the idea into a single sentence.
+* Fuzzier definitions of open
+  What are they, why are they problematic?
+  Should we care?
 
-The definition works very well. It fits in a tweet and fits well on a slide in a presentation. But I always immediately unpack the statement to provide a bit more context.
+* Open data in context
+  other forms of open, open innovation, the open data commons
+  collaborative economy
 
-By _access_ what we mean is that the data is available online in some form. You can point to it, download it, or query it in some way. We'll explore the ways in which data can be usefully published in Section 1.
+* Open data as a public good
+  What is a public good, other types of good
+  Debunking tragedy of the commons, references to Ostrom, forward references to later questions
+  
+* Open data: defined
+  Use the ODI definition, but acknowledge that open definition provides useful context on more issues
 
-By _use_ we mean that the data isn't simply presented in a form that allows it to be read, e.g. in a document, but is published in a way that it can be re-purposed or analysed. Reading is just one form of use. This means that data is presented in a machine-readable form that is more amenable to manipulation.
 
-And by _share_ we mean that open data lets us do more than just use data. After it has been corrected, transformed, enriched or aggregated it can then be re-published for others to use. This requires that data be published under an open licence that gives us permission to do all of those things. In Section 1 we will look more closely at how open licences are the cornerstone of the open data movement.
+## Two definitions of open data
 
-But what do we mean by allowing _anyone_ to do that? While there's a whole discussion to be had around who we are enabling with the sharing of open data (see Section 1) the important aspect to draw out first is that anyone means citizens, individuals, developers, researchers and commercial organisations. Open licences do not place restrictions around who is accessing, using and sharing data.
+>Open data is data that anyone can access, use and share. 
 
-While the ODI definition provides a useful jumping off point for these discussions, it glosses over a number of important aspects. For example data can be made machine-readble in many different ways, some of which are not easy to reuse without paying for specific software or services. For a more complete specification of open data we can turn to the Open Definition.
+This is [the Open Data Institute definition](https://theodi.org/what-is-open-data) of open data. It's intended to provide a simple definition that is accessible to a wide audience. As an elevator pitch it condenses the idea into a single sentence.
 
-Created by the Open Knowledge Foundation (OKF) and managed by an expert advisory council, the definition is intended to be the touchstone that defines the basic principles of what is means to share data in licences and using formats and methods that are as open data possible.
+As a definition it works very well. It fits in a tweet and works well on a presentation slide. But when using it I always immediately unpack the defintion in order to provide more context. That usually goes along the lines of the following:
 
-The Open Definition highlights the importance of:
+By _access_, we mean that the data is available online in some form. You can point to it, download it, or query it in some way. We'll explore the various ways in which data can be published and accessed when we ask: "How do we publish and discovery datasets?"
 
-* publishing data using open formats that can be used without needing proprietary software
-* making data available for free, so it can be used by the widest possible audience
-* ensuring that data can be easily accessed and shared without requiring onerous sign-up processes or specific technical platforms or processes
+By _use_, we mean that data isn't simply presented in a format that allows it to be read, e.g. in a document. Reading is just one, albeit important, form of use. The data needs to be made available in a form that allows it to be re-purposed or analysed. In practice this means that open data should be published in a machine-readable format, that allows it to be interpreted, manipulated or visualised using a variety of tools and programming languages.
 
-The Open Definition is based on a similar definition which has helped foster the growth of open source software. 
+And by _share_, we mean that we can do more than just use the data ourselves. After it has been corrected, transformed, enriched or aggregated we should have permission to re-publish it for anyone else to use. Permission to work with data can be given in various ways. But the best practice is to publish data under an open licence that explicitly states what we are permitted to do with it. We will look more closely at how open licences when we think about "How do we enable reuse of data?".
 
-This connection is important as it highlights that open data is just a part of a broader movement.
+But what do we mean by allowing _anyone_ to do that? Answering that question will also be covered in later chapters. But the important aspect to draw out first is that _anyone_ means citizens, individuals, developers, researchers and commercial organisations. Open licences do not place restrictions around who is doing the accessing, using and sharing of data. If those restrictions exist, then it is not open data.
 
-# "All of the open"
+Now, while the ODI definition provides a useful jumping off point for exploring the ideas around open data, it does gloss over a number of important aspects. For example, there are many different ways in which data can be published in machine-readable formats. But some of those formats would require users to have access to specific software or applications in order to actually work with the data. This limits reuse to those who can afford to pay, or otherwise have access to the necessary tools.  
+
+For a more complete definition of open data we can turn to the [Open Definition](http://opendefinition.org/). The summary of the Open Definition is similar to that proposed by the ODI:
+
+>Open data and content can be freely used, modified, and shared by anyone for any purpose
+
+But [the full Open Definition](http://opendefinition.org/od/2.1/en/) goes further, defining a set of principles that help to define "openness" with respect to data and content. These principles are intended to be a reference point that helps to clarify what it means for information to be open. The definition is relatively short and I encourage you to read it in full. But, to summarise, the open definition clearly states that for a work to be open it must:
+
+* be in the public domain, or published under an open licence
+* must be available as a whole, should be available online and any costs for accessing it should be reasonable one-off reproduction costs
+* must be machine-readable, allowing the work to be easily accessed and modified
+* be in an open format that can be accessed using free or openly licensed software
+
+The definition also spells out the permissions that a reuser must have in order for the work to be open. They should be able to:
+
+* use the information themselves
+* redistribute it to others
+* modify it, in any way
+* extract portions of it, e.g. for distribution
+* aggregate it with other datasets
+* use it regardless of who they are, or what organisation they work for
+* pass the data on under the same terms
+* not be constrained by their intended purpose, e.g. by limiting reuse for research purposes
+* be able to do all of the above for free
+
+The definition also spells out the acceptable restrictions on what reusers are required to do. These include:
+
+* attributing the source of the data
+* preserving the integrity of the original, e.g. by requiring users to give a new name to their modified version
+* requiring new or modified copies to use the same licence
+* requiring that copyright notices are preserved
+
+This provides a much clearer scope for what constitutes an openly licensed data. But even with reference to this more detailed list of requirements there is still room for reasonable debate about their interpretation. 
+
+For example, it is generally accepted that "must be provided as a whole" means that open data should be available in bulk, as a download. But its not clear whether this means that the data has to be available as a single download, or whether multiple files are acceptable. Avaiable "as a whole" might not be feasible in some contexts, e.g. where the open data is a stream of sensor readings and no database of previous readings is available. In some cases the sheer scale of some datasets mean that they may not be readily accessible without incurring significant cost and/or time investments by both publisher and consumer.
+
+Another example is the reasonable requirement that reusers should attribute the sources of their data. As we'll discuss in a later chapter, attribution is an important part of the open data ecosystem. It should be something we do as a community even if there aren't explicit requirements to do so. But attribution requirements themselves can be unnecessarily onerous. For example stating that an attribution must be displayed in a certain way, e.g. appear prominently on every page of an application, or use a minimum font size, can make it awkward for reusers. Especially when data might end up in mobile applications, embedded devices or other equipment. 
+
+In both cases its clear that a reasonable interpretation may need to be made. It might be difficult to put a single, hard definition to "openness" that we can measure everything against. But the open definition does an excellent job of defining the key characteristics of open. 
+
+### Informal definitions of "open"
+
+Does it really matter if a dataset is formally open? I've seen people refer to a dataset as being "open data" when any of the following are true:
+
+* it’s on the web
+* it’s free to use
+* it’s published under an open licence
+* it’s published under a custom licence, which limits some types of use (usually commercial, often everything except personal)
+* it’s free to use, so long as you do so within a particular application or platform
+
+Informally, open is often synonmyous with "accessible" or "public", regardless of what licensing is applied to the data, if any. Depending on the needs of the user, some restrictions might be fine. A clause prohibiting commercial use is irrelevant if you're using the data for personal or research purposes.
+
+So should we worry to much about definitions and instead just focus on making more data available, regardless of licensing? Surely we can trust users to clarify whether their specific form of reuse is permitted? 
+
+While at times it can seem like nit-picking, I think its important to try to maintain a clear definition of what is and isn't open data. There are several reasons for this.
+
+We know that people rarely pay attention to terms and conditions. No-one reads the small print. It could be harmful to the open data movement if there were legal challenges over the use or misuse of "open data". If the idea becomes tarnished with uncertainty and doubt then this will be used as an argument for not releasing data or doing so only under very restrictive agreements.
+
+It is the freedoms and permissive uses of open data which is its real strength. Through this it becomes a public good and can be beneficial to all aspects of society. 
+
+For those that do pay attention to licensing, lack of clarity around permitted uses will discourage commercial uptake of open data, especially by organisations that are concerned around the potential risks of using third-party data. While commercial actors are not essential for open data to be a success in all sectors, as we will see in a later chapter, "commercial use" may include charities and similar types of organisations.
+
+### Open data in context
 
 The principles of opennness, sharing and collaboration have been having an impact in a number of disciplines and sectors for some years. Open data is perhaps best viewed as a natural progression that includes:
 
@@ -53,11 +119,8 @@ However I see "open innovation" as just one activity that benefits from The Comm
 
 The Commons consists of the wealth of openly licensed content, software and data that we are creating as a society. Open innovation is a means of using that to solve a variety of local and global challenges by enabling better collaboration between a variety of organisations. 
 
-But the Commons itself is sustained by a number of other important activities that we must not overlook: 
+## Open data: defined
 
-* the activities of creators willing to openly license their creations
-* the role of archivists in ensuring that these outputs remain available over the long-term
-* the creation of collaboration tools that support co-production
-* ...TODO..
+Use the ODI definition but defer to the open definition for further exploration
 
 
