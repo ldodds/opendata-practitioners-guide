@@ -2,22 +2,6 @@
 
 So what is open data anyway?
 
-* Fuzzier definitions of open
-  What are they, why are they problematic?
-  Should we care?
-
-* Open data in context
-  other forms of open, open innovation, the open data commons
-  collaborative economy
-
-* Open data as a public good
-  What is a public good, other types of good
-  Debunking tragedy of the commons, references to Ostrom, forward references to later questions
-  
-* Open data: defined
-  Use the ODI definition, but acknowledge that open definition provides useful context on more issues
-
-
 ## Two definitions of open data
 
 >Open data is data that anyone can access, use and share. 
