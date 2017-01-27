@@ -27,9 +27,9 @@ But I would argue that regardless of whether you are a publisher or consumer of 
 
 While this book is intended to be a comprehensive reference, it can't cover every topic. There are a number of areas that won't be covered here:
 
-* case studies and impact assessments of open data projects – there is already a number of great resources creating these types of resources
-* how to build a business case for open data – my assumption is that you're either about to start your open data project or are already underway and are looking for some help and guidance 
-* data landscape reviews exploring the availability and adoption of open data in specific sectors – while the guide will include some recommendations for mapping these ecosystems, it won't focus on a specific sector
+* case studies and impact assessments of open data projects - there is already a number of great resources creating these types of resources
+* how to build a business case for open data - my assumption is that you're either about to start your open data project or are already underway and are looking for some help and guidance 
+* data landscape reviews exploring the availability and adoption of open data in specific sectors - while the guide will include some recommendations for mapping these ecosystems, it won't focus on a specific sector
 
 As the guide is intended to be useful to a broad audience it will also be fairly high-level. A number of technical topics will be introduced and discussed, but no specific technology background will be assumed. This book is not a detailed reference on API design, Linked Data, or data modelling. 
 
